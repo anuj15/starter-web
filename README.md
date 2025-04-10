@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 You can contribute in any way you want
 
 ### Copyright
-2025 Git Copyright notice
+2025 Git Copyright notice updated
