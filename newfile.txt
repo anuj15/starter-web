@@ -1,2 +1,0 @@
-testing git ls-files
-testing echo now and if earlier text will get overridden or not
