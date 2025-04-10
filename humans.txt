@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anuj Gupta	anuj.nits@gmail.com	anuj15
 
 # THANKS
 
